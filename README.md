@@ -12,5 +12,5 @@ Kudos <3
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## Learning 
-<a href='https://github.com/devMorshed' target="_blank"><img alt='React' src='https://img.shields.io/badge/React-100000?style=for-the-badge&logo=React&logoColor=white&labelColor=black&color=black'/></a>
-<a href='https://github.com/devMorshed' target="_blank"><img alt='vite' src='https://img.shields.io/badge/vite-100000?style=for-the-badge&logo=vite&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/devMorshed' target="_blank"><img alt='react' src='https://img.shields.io/badge/React-100000?style=for-the-badge&logo=react&logoColor=2761FF&labelColor=75FF62&color=75FF62'/></a>
+<a href='https://github.com/devMorshed' target="_blank"><img alt='vite' src='https://img.shields.io/badge/vite-100000?style=for-the-badge&logo=vite&logoColor=E8FFA9&labelColor=000000&color=758AFF'/></a>
