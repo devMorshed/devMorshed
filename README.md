@@ -13,4 +13,4 @@ Kudos <3
 
 ## Learning 
 <a href='https://github.com/devMorshed' target="_blank"><img alt='React' src='https://img.shields.io/badge/React-100000?style=for-the-badge&logo=React&logoColor=white&labelColor=black&color=black'/></a>
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+<a href='https://github.com/devMorshed' target="_blank"><img alt='vite' src='https://img.shields.io/badge/vite-100000?style=for-the-badge&logo=vite&logoColor=white&labelColor=black&color=black'/></a>
