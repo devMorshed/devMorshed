@@ -1,6 +1,6 @@
 ### 👋 Hello 
 Welcome to my profile, though nothing much init now. <br>
-Hope it'll be more enriched in near future  🌱 . <br>
+Hope it'll be more enriched in near future  . <br>
 Kudos <3
 
 ## Till now my expertise: 
