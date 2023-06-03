@@ -10,7 +10,11 @@ Kudos <3
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 ## Learning 
-<a href='https://github.com/devMorshed' target="_blank"><img alt='react' src='https://img.shields.io/badge/React-100000?style=for-the-badge&logo=react&logoColor=2761FF&labelColor=75FF62&color=75FF62'/></a>
-<a href='https://github.com/devMorshed' target="_blank"><img alt='vite' src='https://img.shields.io/badge/vite-100000?style=for-the-badge&logo=vite&logoColor=E8FFA9&labelColor=000000&color=758AFF'/></a>
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
